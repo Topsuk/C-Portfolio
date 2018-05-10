@@ -1,0 +1,6 @@
+C:\Users\Tupsu\source\repos\Harjoituksia\Harjoituksia\obj\Debug\Harjoituksia.csproj.CoreCompileInputs.cache
+C:\Users\Tupsu\source\repos\Harjoituksia\Harjoituksia\bin\Debug\Harjoituksia.exe.config
+C:\Users\Tupsu\source\repos\Harjoituksia\Harjoituksia\bin\Debug\Harjoituksia.exe
+C:\Users\Tupsu\source\repos\Harjoituksia\Harjoituksia\bin\Debug\Harjoituksia.pdb
+C:\Users\Tupsu\source\repos\Harjoituksia\Harjoituksia\obj\Debug\Harjoituksia.exe
+C:\Users\Tupsu\source\repos\Harjoituksia\Harjoituksia\obj\Debug\Harjoituksia.pdb
